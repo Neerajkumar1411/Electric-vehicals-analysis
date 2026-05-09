@@ -45,3 +45,4 @@ This dashboard provides a **data-driven narrative** of the EV industry — helpi
 ## 📁 Project Tags
 `#PowerBI` `#SQL` `#DataModeling` `#EVAnalytics` `#DashboardDesign` `#DataVisualization`
 
+example - [dashboard preview] https://github.com/Neerajkumar1411/Electric-vehicals-analysis/blob/main/EV%20Data%20dashboard.png
